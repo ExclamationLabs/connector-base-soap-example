@@ -1,0 +1,7 @@
+<bindings
+        wsdlLocation="BLZService.wsdl"
+        xmlns="http://java.sun.com/xml/ns/jaxws">
+    <package name="dummy"/>
+    <enableWrapperStyle>false</enableWrapperStyle>
+    <enableAsyncMapping>false</enableAsyncMapping>
+</bindings>
